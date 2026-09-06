@@ -48,12 +48,20 @@ plainwhite:
   navigation:
     - title: HomePage
       url: "index"
-    - title: "IA bilingue: filosofia"
+    - title: "IA Bil: filosofia/philosophie"
       url: "/1a_bil_filosofia"
-    - title: "IA bilingue: storia"
+    - title: "IA Bil: storia/histoire"
       url: "/1a_bil_storia"
-    - title: Publications
-      url: "/publications"
+    - title: "II A Ord: filosofia"
+      url: "/2a_ord_filosofia"
+    - title: "II A Ord: storia"
+      url: "/2a_ord_storia"
+    - title: "4 C Art: filosofia"
+      url: "/4c_art_filosofia"
+    - title: "4 D Art: filosofia"
+      url: "/4d_art_filosofia"
+    - title: "5 D Art: filosofia"
+      url: "/5d_art_filosofia"
    #- title: Blog
    #url: "/posts"
 
