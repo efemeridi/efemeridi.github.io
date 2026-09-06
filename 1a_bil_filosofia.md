@@ -5,7 +5,4 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
-| Kant      | [Materiale 1](/materiali/kant_mat1.pdf) |
-| Kant      | Materiale 2 |
-|Platone|[La Repubblica](/materiali/03_repubblica_passi_scelti_I_A_ordinario.pdf)|
-|Kant|[Critica della ragion pura](/materiali/01_KANT_ARTISTICO_PRIMA_PARTE.pdf)|
+|INTRODUZIONE|[La filosofia e l'esistenza](materiali/I_A_bil/filosofia/01_la_filosofia_e_l_esistenza.pdf)|
