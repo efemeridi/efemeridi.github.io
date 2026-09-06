@@ -5,5 +5,5 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
-| Kant      | Materiale 1 |
+| Kant      | [Materiale 1](/materiali/kant_mat1.pdf) |
 | Kant      | Materiale 2 |
