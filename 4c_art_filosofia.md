@@ -5,5 +5,3 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
-| Kant      | Materiale 1 |
-| Kant      | Materiale 2 |
