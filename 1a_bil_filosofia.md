@@ -7,3 +7,4 @@ layout: page
 |-----------|-------------|
 | Kant      | [Materiale 1](/materiali/kant_mat1.pdf) |
 | Kant      | Materiale 2 |
+|Platone|La Repubblica|
