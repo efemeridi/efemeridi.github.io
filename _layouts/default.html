@@ -147,9 +147,36 @@
       <nav class="navigation about-footer {{condensed_class}}">
         <ul>
           {% for link in site.plainwhite.navigation %}
+          {% if link.children %}
+          {% assign group_active = false %}
+          {% if page.url contains link.url %}
+          {% assign group_active = true %}
+          {% endif %}
+          {% for child in link.children %}
+          {% if page.url contains child.url %}
+          {% assign group_active = true %}
+          {% endif %}
+          {% endfor %}
+          <li class="nav-group">
+            <details {% if group_active %}open{% endif %}>
+              <summary>
+                <a href="{{ link.url }}">{{ link.title }}</a>
+                <span class="nav-caret" aria-hidden="true"></span>
+              </summary>
+              <ul class="nav-subgroup">
+                {% for child in link.children %}
+                <li>
+                  <a href="{{ child.url }}">{{ child.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </details>
+          </li>
+          {% else %}
           <li>
             <a href="{{ link.url }}">{{ link.title }}</a>
           </li>
+          {% endif %}
           {% endfor %}
         </ul>
       </nav>

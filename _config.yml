@@ -48,20 +48,35 @@ plainwhite:
   navigation:
     - title: HomePage
       url: "index"
-    - title: "IA Bil: filosofia/philosophie"
-      url: "/1a_bil_filosofia"
-    - title: "IA Bil: storia/histoire"
-      url: "/1a_bil_storia"
-    - title: "II A Ord: filosofia"
-      url: "/2a_ord_filosofia"
-    - title: "II A Ord: storia"
-      url: "/2a_ord_storia"
-    - title: "4 C Art: filosofia"
-      url: "/4c_art_filosofia"
-    - title: "4 D Art: filosofia"
-      url: "/4d_art_filosofia"
-    - title: "5 D Art: filosofia"
-      url: "/5d_art_filosofia"
+    - title: "I A Bil"
+      url: "/1a_bil"
+      children:
+        - title: "Filosofia/philosophie"
+          url: "/1a_bil_filosofia"
+        - title: "Storia/histoire"
+          url: "/1a_bil_storia"
+    - title: "II A Ord"
+      url: "/2a_ord"
+      children:
+        - title: "Filosofia"
+          url: "/2a_ord_filosofia"
+        - title: "Storia"
+          url: "/2a_ord_storia"
+    - title: "4 C Art"
+      url: "/4c_art"
+      children:
+        - title: "Filosofia"
+          url: "/4c_art_filosofia"
+    - title: "4 D Art"
+      url: "/4d_art"
+      children:
+        - title: "Filosofia"
+          url: "/4d_art_filosofia"
+    - title: "5 D Art"
+      url: "/5d_art"
+      children:
+        - title: "Filosofia"
+          url: "/5d_art_filosofia"
    #- title: Blog
    #url: "/posts"
 
