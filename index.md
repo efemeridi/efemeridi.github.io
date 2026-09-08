@@ -4,8 +4,10 @@ layout: page
 
 # Efemeridi
 
-Presentazione sito/personale e qualche bella frase. 
+## Segnalazioni
 
-# Sezione 1 
+<div class="post-date"><i class="icon-calendar"></i>10 Settembre 2026</div>
 
-Qui qualche sezione volendo oppure link alle pagine delle classi 
+Inizio anno scolastico. 
+
+
