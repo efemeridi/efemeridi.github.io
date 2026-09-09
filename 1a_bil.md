@@ -3,7 +3,7 @@ layout: page
 ---
 # I A Liceo classico bilingue
 
-Presentazione della classe.
+[Mappa di navigazione](materiali/I_A_bil/OPERA_INIZIALE/traccia_di_lavoro_studenti_IA_bil.pdf)
 
 ## Materie
 
