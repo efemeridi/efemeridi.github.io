@@ -3,8 +3,7 @@ layout: page
 ---
 # II A Liceo classico ordinario
 
-Presentazione della classe.
-
+PROVA D'OPERA INIZIALE[Moodboard](/PROVA_D_OPERA_INIZIALE_STUDENTI.PDF)
 ## Materie
 
 - [Filosofia](/2a_ord_filosofia)
