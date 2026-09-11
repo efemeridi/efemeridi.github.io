@@ -5,4 +5,4 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
-|L'età ellenistico-romana-La filosofia oltre i confini greci|[L'età ellenistico romana]
+|L'età ellenistico-romana-La filosofia oltre i confini greci|[L'età ellenistico romana](/materiali/4_C_art/filosofia/01_ellenismo_epicu_stoici_4C.pdf/)
