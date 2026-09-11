@@ -3,7 +3,7 @@ layout: page
 ---
 # 4 D Liceo artistico
 
-Presentazione della classe.
+[Mappa di navigazione](materiali/4_D_art/PROVA_D_OPERA_INIZIALE/PROVA_D_OPERA_INIZIALE_ARTISTICO_studenti_4_D.pdf)
 
 ## Materie
 
