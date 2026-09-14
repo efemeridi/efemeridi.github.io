@@ -12,7 +12,7 @@ layout: page
 
 <div class="post-date"><i class="icon-calendar"></i>14 Settembre 2026</div>
 
-[Sergio Labate, Tra manipolazione e verità: la politica è al servizio del mondo disumanizzato](/materiali/segnalazioni/02_labate_tra_manipolazione_e_verita.pdf/)
+[Sergio Labate, Tra manipolazione e verità: la politica è al servizio del mondo disumanizzato, tratto da Il Domani](/materiali/segnalazioni/02_labate_tra_manipolazione_e_verita.pdf/)
 
 
 
