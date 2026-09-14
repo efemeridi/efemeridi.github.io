@@ -5,3 +5,4 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
+|L'Europa tra libertà e assolutismo | [Le alternative all'assolutismo]
