@@ -5,3 +5,4 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
+|Da Kant a Hege| [Ricordi Kant?]
