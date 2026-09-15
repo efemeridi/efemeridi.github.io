@@ -5,4 +5,4 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
-|Da Kant a Hege| [Ricordi Kant?]
+|Da Kant a Hege| [Ricordi Kant?](/materiali/5_D_art/01_KANT_ARTISTICO_RIPASSO.pdf/)
