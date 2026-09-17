@@ -5,5 +5,5 @@ layout: page
 
 | Argomento | Materiale   |
 |-----------|-------------|
-|L'età ellenistico-romana|[La filosofia oltre i confini della Grecia](/materiali/4_D_art/filosofia/01_ellenismo_epicu_stoici_4C.pdf/)
+|L'età ellenistico-romana|[La filosofia oltre i confini della Grecia](/materiali/4_D_art/filosofia/01_ellenismo_epicu_stoici_4D.pdf/)
 |L'età ellenistico-romana|[Epicuro: lettera a Meneceo](/materiali/4_D_art/filosofia/02_Epicuro_lettera_a_Meneceo_studenti_4C.pdf/)
