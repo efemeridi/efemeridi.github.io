@@ -11,3 +11,4 @@ layout: page
 |L'Europe: du mythe à l'histoire|[Charlemagne, père de l'Europe](/materiali/I_A_bil/storia/01_charlemagne_pere_europe_sito_2026.pdf/)
 |L'Europe: du mythe à l'histoire|[Approfondimento: Notkero Balbulo nel retrobottega di Carlo Magno, tratto da il manifesto](/materiali/I_A_bil/storia/Notkero_Balbulo_Gesta_Karoli.pdf/)
 |L'Europe: du mythe à l'histoire|[Charlemagne à l'origine de l'Europe](/materiali/I_A_bil/storia/02_Charlemagne_a_l_origine_de_l_Europe.pdf/)
+|L'Europe: du mythe à l'histoire|[Vidéo: Charlemagne](https://www.dailymotion.com/video/x80iq3c)
