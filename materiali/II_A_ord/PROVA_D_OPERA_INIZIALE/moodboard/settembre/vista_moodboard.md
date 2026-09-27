@@ -5,6 +5,7 @@
 ![](Pagina_04.jpg)
 ![](Pagina_05.jpg)
 ![](Pagina_06.jpg)
+![](Pagina_06bis.jpg)
 ![](Pagina_07.jpg)
 ![](Pagina_08.jpg)
 ![](Pagina_09.jpg)
