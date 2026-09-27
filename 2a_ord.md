@@ -3,7 +3,10 @@ layout: page
 ---
 # II A Liceo classico ordinario
 
-[Mappa di navigazione](materiali/II_A_ord/PROVA_D_OPERA_INIZIALE/PROVA_D_OPERA_INIZIALE_STUDENTI_IIA_ord.pdf)
+|  |  |
+|---|---|
+|[Mappa di navigazione](materiali/II_A_ord/PROVA_D_OPERA_INIZIALE/PROVA_D_OPERA_INIZIALE_STUDENTI_IIA_ord.pdf)|[Moodboard](materiali/II_A_ord/PROVA_D_OPERA_INIZIALE/moodboard/settembre/vista_moodboard.md)|
+
 ## Materie
 
 - [Filosofia](/2a_ord_filosofia)
