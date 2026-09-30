@@ -20,4 +20,4 @@ layout: page
 
 <div class="post-date"><i class="icon-calendar"></i>29 Settembre 2026</div>
 
-[Elite, cittadinanza e malfunzionamenti: le democrazie non sono davvero in crisi](
+[Elite, cittadinanza e malfunzionamenti: le democrazie non sono davvero in crisi](/materiali/segnalazioni/03_democrazie_e_no.pdf/)
