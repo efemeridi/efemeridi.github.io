@@ -23,5 +23,6 @@ layout: page
 [Elite, cittadinanza e malfunzionamenti: le democrazie non sono davvero in crisi, tratto da il "Domani"](/materiali/segnalazioni/03_democrazie_e_no.pdf/)
 
 <div class="post-date"><i class="icon-calendar"></i>30 Settembre 2026</div>
+
 [Naza e la coscienza di Israele](https://www.internazionale.it/podcast/ilmondo/la-sentenza-sull-omicidio-di-giulio-regeni-apre-nuovi-scenari-naza-e-la-coscienza-di-israele)
 
