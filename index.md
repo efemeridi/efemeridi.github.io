@@ -18,3 +18,6 @@ layout: page
 
 [Quant'è grande veramente l'Africa?](https://www.internazionale.it/podcast/ilmondo/gli-ucraini-sono-stanchi-degli-scandali-quant-e-grande-veramente-l-africa/)
 
+<div class="post-date"><i class="icon-calendar"></i>29 Settembre 2026</div>
+
+[Elite, cittadinanza e malfunzionamenti: le democrazie non sono davvero in crisi](
