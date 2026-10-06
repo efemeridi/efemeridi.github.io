@@ -10,3 +10,4 @@ layout: page
 |L'Europa tra libertà e assolutismo | [Antico Regime e assolutismo in Europa](/materiali/II_A_ord/storia/01_antico_regime_assolutismo.pdf/)
 |L'Europa tra libertà e assolutismo | [Guerre e nuovi equilibri europei nel Settecento](/materiali/II_A_ord/storia/04_guerre_nuovi_equilibri_700.pdf/)
 |L'Europa tra libertà e assolutismo | [La guerra oltre la dimensione strategica e militare](/materiali/II_A_ord/storia/05_guerra_guerra_guerra.pdf/)
+|L'Europa tra libertà e assolutismo | [Indicazioni per lo studio]
