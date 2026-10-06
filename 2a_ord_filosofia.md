@@ -14,4 +14,4 @@ layout: page
 |Il Quattrocento e il Cinquecento|[Laplace: Una nuova concezione della natura](/materiali/II_A_ord/filosofia/U_1_IL_400_E_IL_500/02_LAPLACE.pdf/)
 |Il Quattrocento e il Cinquecento|[Galileo Galilei: La battaglia culturale per una concezione innovativa dell'universo](/materiali/II_A_ord/filosofia/U_1_IL_400_E_IL_500/03_Galilei_lettera_Cristina_di_Lorena_Saggiatore.pdf/)
 |Il Quattrocento e il Cinquecento|[T. Kuhn: La rivoluzione scientifica, l'adozione di un nuovo paradigma](/materiali/II_A_ord/filosofia/U_1_IL_400_E_IL_500/04_KUHN_CLASSICO_IIA.pdf/)
-|Il Quattrocento e il Cinquecento|[Indicazioni per lo studio]
+|Il Quattrocento e il Cinquecento|[Indicazioni per lo studio](/materiali/II_A_ord/filosofia/PROGRAMMI/02_filosofia_tra_400_e_500.pdf/)
