@@ -26,6 +26,8 @@ layout: page
 
 [Naza e la coscienza di Israele](https://www.internazionale.it/podcast/ilmondo/la-sentenza-sull-omicidio-di-giulio-regeni-apre-nuovi-scenari-naza-e-la-coscienza-di-israele)
 
+<div class="post-date"><i class="icon-calendar"></i>3 Ottobre 2026</div>
+
 [L'arte minima concessa a tutti. Scrivere a mano è un piacere](/materiali/segnalazioni/04_scrivere_a_mano_domani_3_ottobre.pdf/)
 
 
