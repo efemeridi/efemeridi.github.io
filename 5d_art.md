@@ -5,7 +5,7 @@ layout: page
 
 |||
 |---|---|
-|[Mappa di navigazione](/materiali/5_D_art/MOODBOARD_5D_ARTISTICO.pdf/)|[Moodboard](/materiali/5_D_art/Moodboard/settembre/vista_moodboard.md/)|
+|[Mappa di navigazione](/materiali/5_D_art/MOODBOARD_5D_ARTISTICO.pdf/)|[Moodboard](/materiali/5_D_art/Moodboard/settembre/vista_moodboard/)|
 
 
 ## Materie
