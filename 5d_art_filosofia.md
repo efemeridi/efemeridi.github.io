@@ -8,5 +8,5 @@ layout: page
 |Da Kant a Hegel| [Ricordi Kant?](materiali/5_D_art/filosofia/KANT_RIPASSO/01_KANT_ARTISTICO_RIPASSO.pdf/)
 |Da Kant a Hegel| [M. Piattelli Palmarini, Come si può conoscere il mondo secondo Kant?](/materiali/5_D_art/filosofia/KANT_RIPASSO/come_si_puo_conoscere_piattelli.pdf/)
 |Da Kant a Hegel| [La critica della ragion pratica](/materiali/5_D_art/filosofia/KANT_RIPASSO/02_KANT_PRATICA_ART.pdf/)
-|Da Kant a Hegel| [Etica dell'intenzione ed etica dell'azione a confronto: Kant e Arendt]
+|Da Kant a Hegel| [Etica dell'intenzione ed etica dell'azione a confronto: Kant e Arendt](/materiali/5_D_art/filosofia/KANT_RIPASSO/una_diversa_prospettiva_sulla_morale_arendt_art.pdf/)
 |Da Kant a Hegel| [Indicazioni per lo studio](/materiali/5_D_art/filosofia/PROGRAMMI/01_KANT_PROGRAMMA_SINTESI.pdf/)
