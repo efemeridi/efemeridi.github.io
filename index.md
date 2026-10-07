@@ -28,6 +28,6 @@ layout: page
 
 <div class="post-date"><i class="icon-calendar"></i>3 Ottobre 2026</div>
 
-[L'arte minima concessa a tutti. Scrivere a mano è un piacere](/materiali/segnalazioni/04_scrivere_a_mano_domani_3_ottobre.pdf/)
+[L'arte minima concessa a tutti. Scrivere a mano è un piacere, tratto da il "Domani"](/materiali/segnalazioni/04_scrivere_a_mano_domani_3_ottobre.pdf/)
 
 
