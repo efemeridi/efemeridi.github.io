@@ -17,5 +17,5 @@
 ![14](14_img.jpg)
 ![15](15_img.jpg)
 ![16](16_img.jpg)
-![17](17_img_jpg)
-![18](18_img_jpg)
+![17](17_img.jpg)
+![18](18_img.jpg)
