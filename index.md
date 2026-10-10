@@ -31,3 +31,6 @@ layout: page
 [L'arte minima concessa a tutti. Scrivere a mano è un piacere, tratto da il "Domani"](/materiali/segnalazioni/04_scrivere_a_mano_domani_3_ottobre.pdf/)
 
 
+<div class="post-date"><i class="icon-calendar"></i>10 Ottobre 2026</div>
+
+[Felice Cimatti, Che cos'è un animale? in "Dissonanze", rivista di Donzelli editore](https://rivistadissonanze.it/animali/che-cose-un-animale)
