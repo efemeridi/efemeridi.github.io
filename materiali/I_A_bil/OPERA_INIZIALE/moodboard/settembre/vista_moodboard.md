@@ -1,1 +1,10 @@
-
+![01](01_VALERIO.jpg)
+![02](02_SHANTA.jpg)
+![03](03_ERICA.jpg)
+![04](04_BEATRICE.jpg)
+![05](05_SOFIA.jpg)
+![06](06_VICTORIA.jpg)
+![07](07_BENEDETTA.jpg)
+![08](01_MARTA.jpg)
+![09](09_CORINNE.jpg)
+![10](10_FRANCESCA.jpg)
