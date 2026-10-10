@@ -3,7 +3,9 @@ layout: page
 ---
 # I A Liceo classico bilingue
 
-[Mappa di navigazione](materiali/I_A_bil/OPERA_INIZIALE/traccia_di_lavoro_studenti_IA_bil.pdf)
+|||
+|---|---|
+|[Mappa di navigazione](materiali/I_C_BIL/OPERA_INIZIALE/PROVA_D_OPERA_INIZIALE_ARTISTICO_studenti_4_C.pdf)|[Moodboard](materiali/I_A_bil/PROVA_D_OPERA_INIZIALE/moodboard/settembre/vista_moodboard.md)|
 
 ## Materie
 
