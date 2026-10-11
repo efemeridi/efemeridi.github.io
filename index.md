@@ -30,6 +30,9 @@ layout: page
 
 [L'arte minima concessa a tutti. Scrivere a mano è un piacere, tratto da il "Domani"](/materiali/segnalazioni/04_scrivere_a_mano_domani_3_ottobre.pdf/)
 
+<div class="post-date"><i class="icon-calendar"></i>7 Ottobre 2026</div>
+
+[Solo l'uguaglianza può salvare la democrazia, tratto da il "Domani"](/materiali/segnalazioni/05_solo_uguaglianza_salva_democrazia_domani.pdf/)
 
 <div class="post-date"><i class="icon-calendar"></i>10 Ottobre 2026</div>
 
