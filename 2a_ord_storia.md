@@ -11,3 +11,4 @@ layout: page
 |L'Europa tra libertà e assolutismo | [Guerre e nuovi equilibri europei nel Settecento](/materiali/II_A_ord/storia/04_guerre_nuovi_equilibri_700.pdf/)
 |L'Europa tra libertà e assolutismo | [La guerra oltre la dimensione strategica e militare](/materiali/II_A_ord/storia/05_guerra_guerra_guerra.pdf/)
 |L'Europa tra libertà e assolutismo | [Indicazioni per lo studio](/materiali/II_A_ord/storia/PROGRAMMI/PROGRAMMA_SEZ_1.pdf/)
+|L'epoca dei Lumi e delle rifome | [L'età della ragione: l'Illuminismo]
