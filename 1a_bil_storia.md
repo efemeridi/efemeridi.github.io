@@ -13,3 +13,4 @@ layout: page
 |L'Europe: du mythe à l'histoire|[Charlemagne à l'origine de l'Europe](/materiali/I_A_bil/storia/02_Charlemagne_a_l_origine_de_l_Europe.pdf/)
 |L'Europe: du mythe à l'histoire|[Vidéo: Charlemagne](https://www.dailymotion.com/video/x80iq3c)
 |L'Europe: du mythe à l'histoire|[Indicazioni per lo studio](/materiali/I_A_bil/storia/PROGRAMMI/CHARLEMAGNE_PERE_EUROPE.pdf/)
+|La Mediterranée au XIIème s.: un carrefour de civilistations|[Les bases religieuses des civilisations méditerranéennes](/
