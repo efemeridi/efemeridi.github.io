@@ -10,3 +10,4 @@ layout: page
 |Da Kant a Hegel| [La critica della ragion pratica](/materiali/5_D_art/filosofia/KANT_RIPASSO/02_KANT_PRATICA_ART.pdf/)
 |Da Kant a Hegel| [Etica dell'intenzione ed etica dell'azione a confronto: Kant e Arendt](/materiali/5_D_art/filosofia/KANT_RIPASSO/una_diversa_prospettiva_sulla_morale_arendt_art.pdf/)
 |Da Kant a Hegel| [Indicazioni per lo studio](/materiali/5_D_art/filosofia/PROGRAMMI/01_KANT_PROGRAMMA_SINTESI.pdf/)
+|Da Kant a Hegel| [L'idealismo e Hegel]
