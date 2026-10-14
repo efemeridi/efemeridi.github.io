@@ -14,4 +14,4 @@ layout: page
 |L'epoca dei Lumi e delle riforme | [L'età della ragione: l'Illuminismo](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/4_eta_della_ragione_illuminismo_26.pdf/)
 |L'epoca dei Lumi e delle riforme |[L'Illuminismo attraverso i testi: Kant](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/a_cosa_e_illuminismo_Kant_analisi.pdf/)
 |L'epoca dei Lumi e delle riforme |[L'Illuminismo attraverso i testi: T. Todorov](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/b_esprit_lumieres_todorov.pdf/)
-|L'epoca dei Lumi e delle riforme |[L'Illuminismo attraverso i testi: U. Galimberti]
+|L'epoca dei Lumi e delle riforme |[L'Illuminismo attraverso i testi: U. Galimberti](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/c_cosa_e_illuminismo_galimberti.pdf/)
