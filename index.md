@@ -37,3 +37,7 @@ layout: page
 <div class="post-date"><i class="icon-calendar"></i>10 Ottobre 2026</div>
 
 [Felice Cimatti, Che cos'è un animale? in "Dissonanze", rivista di Donzelli editore](https://rivistadissonanze.it/animali/che-cose-un-animale)
+
+<div class="post-date"><i class="icon-calendar"></i>15 Ottobre 2026</div>
+
+[Per continuare a riflettere sul film: I cento passi](https://www.youtube.com/watch?v=KUpcxdg2Iqs))
