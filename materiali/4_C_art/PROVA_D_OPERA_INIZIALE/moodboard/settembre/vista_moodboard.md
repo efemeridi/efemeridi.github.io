@@ -1,5 +1,6 @@
 # Moodboard settembre 2026
 
+![00](00.jpg)
 ![01](01.jpg)
 ![02](02.jpg)
 ![03](03.jpg)
