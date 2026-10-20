@@ -15,4 +15,4 @@ layout: page
 |L'età tardo antica e medievale|[Ockham, il principio di economia nella scienza](/materiali/4_C_art/filosofia/06_Il_rasoio_di_Occam_e_il_potere_della_semplicità_-_Johnjoe_McFadden_-_Internazionale.pdf/)
 |L'età tardo antica e medievale|[Indicazioni per lo studio](/materiali/4_C_art/filosofia/PROGRAMMI/02_filocristiana_4C_26_programma_testo.pdf/)
 |Il Quattrocento e il Cinquecento|[Dall'Umanesimo e Rinascimento alla Rivoluzione scientifica](/materiali/4_C_art/filosofia/01_FILO_TRA_400_E_500/01_Quattrocento_cinquecento_4_C_artistico.pdf/)
-|Il Quattrocento e il Cinquecento|[La rivoluzione scientifica: un nuovo sguardo sull'uomo e sul mondo nelle parole dei suoi protagonisti]()
+|Il Quattrocento e il Cinquecento|[La rivoluzione scientifica nelle parole dei protagonisti: un nuovo sguardo sull'uomo e sul mondo](/materiali/4_C_art/filosofia/01_FILO_TRA_400_E_500/02_TESTI_RIVOLUZIONE_SCIENTIFICA_AA_VV.pdf/)
