@@ -44,4 +44,5 @@ layout: page
 
 <div class="post-date"><i class="icon-calendar"></i>15 Ottobre 2026</div>
 
-[Per continuare riflettere sul film: I cento passi]()
+[Per continuare riflettere sul film: I cento passi](/materiali/segnalazioni/cento_passi_OP_LICAM.pdf/)
+
