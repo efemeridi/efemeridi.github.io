@@ -40,9 +40,4 @@ layout: page
 
 <div class="post-date"><i class="icon-calendar"></i>15 Ottobre 2026</div>
 
-[Per continuare ad acoltare: I cento passi](https://www.youtube.com/watch?v=KUpcxdg2Iqs)
-
-<div class="post-date"><i class="icon-calendar"></i>15 Ottobre 2026</div>
-
-[Per continuare a riflettere sul film: I cento passi](/materiali/segnalazioni/cento_passi_OP_LICAM.pdf/)
-
+Per continuare a riflettere: [I cento passi](materiali/segnalazioni/cento_passi)
