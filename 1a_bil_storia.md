@@ -16,4 +16,4 @@ layout: page
 |La Mediterranée au XIIème s.: un carrefour de civilisations|[Leçon 1. les bases religieuses des civilisations méditerranéennes](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/chap_1_leçon_1_bases_religieuses_civilisations_medit.pdf/)
 |La Mediterranée au XIIème s.: un carrefour de civilisations|[Leçon 2. La puissance de l'Eglise dans l'Occident médiéval](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/chap_1_leçon_2_La_puissance_Eglise_Occident_mediev.pdf/)
 |La Mediterranée au XIIème s.: un carrefour de civilisations|[Leçon 3. L'expansion de la Chrétienté XIe-XIIIe s](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/chap_1_leçon_3_expansion_Chretiente.pdf/)
-|La Mediterranée au XIIème s.: un carrefour de civilisations|[Indicazioni per lo studio](//)
+|La Mediterranée au XIIème s.: un carrefour de civilisations|[Indicazioni per lo studio](/materiali/I_A_bil/storia/PROGRAMMI/01_THEME_1_MEDITERRANEE_AU_XII_chap_1_leçons_1-2-3.pdf/)
