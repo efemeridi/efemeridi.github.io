@@ -47,7 +47,7 @@ plainwhite:
     #   instance: example.com
   navigation:
     - title: HomePage
-      url: "index"
+      url: "/index"
     - title: "I A Bil"
       url: "/1a_bil"
       children:
