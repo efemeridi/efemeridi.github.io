@@ -12,3 +12,4 @@ layout: page
 |La nascita della filosofia|[Indicazioni per lo studio](/materiali/I_A_bil/filosofia/PROGRAMMI/01_intro_grecia_nascita_filo.pdf/)
 |La ricerca del principio|[La scuola di Mileto](/materiali/I_A_bil/filosofia/02_LA_RICERCA_DEL_PRINCIPIO/01_la_ricerca_del_principio_26_27_bilingue_capitolo_2.pdf/)
 |La ricerca del principio|[Pitagora e la scuola pitagorica](/materiali/I_A_bil/filosofia/02_LA_RICERCA_DEL_PRINCIPIO/02_pitagorici_25_27_capitolo_2_bilingue.pdf/)
+|La ricerca del principio|[Logos e doxa: Eraclito e Parmenide](/materiali/I_A_bil/filosofia/02_LA_RICERCA_DEL_PRINCIPIO/02_pitagorici_25_27_capitolo_2_bilingue.pdf/)
