@@ -16,6 +16,6 @@ layout: page
 |L'epoca dei Lumi e delle riforme |[L'Illuminismo attraverso i testi: T. Todorov](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/b_esprit_lumieres_todorov.pdf/)
 |L'epoca dei Lumi e delle riforme |[L'Illuminismo attraverso i testi: U. Galimberti](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/c_cosa_e_illuminismo_galimberti.pdf/)
 |L'epoca dei Lumi e delle riforme |[APPROFONDIMENTO: N. Bobbio, Sul fondamento dei diritti dell'uomo](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/BOBBIO_ETA_DEI_DIRITTI_STUDENTI.pdf/)
-|L'epoca dei Lumi e delle riforme |[Le riforme dei sovrani illuminati](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/BOBBIO_ETA_DEI_DIRITTI_STUDENTI.pdf/)
-|L'epoca dei Lumi e delle riforme |[L'Italia del Settecento](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/BOBBIO_ETA_DEI_DIRITTI_STUDENTI.pdf/)
+|L'epoca dei Lumi e delle riforme |[Le riforme dei sovrani illuminati](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/5_le_riforme_dei_sovrani_illuminati_26.pdf/)
+|L'epoca dei Lumi e delle riforme |[L'Italia del Settecento](/materiali/II_A_ord/storia/6_italia_settecento_26.pdf/)
 |L'epoca dei Lumi e delle riforme |[Indicazioni per lo studio](/materiali/II_A_ord/storia/PROGRAMMI/PROGRAMMA_SEZ_2.pdf/)
