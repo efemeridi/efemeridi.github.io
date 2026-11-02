@@ -17,3 +17,4 @@ layout: page
 |Il Quattrocento e il Cinquecento|[Indicazioni per lo studio](/materiali/II_A_ord/filosofia/PROGRAMMI/02_filosofia_tra_400_e_500.pdf/)
 |Il problema gnoseologico in età moderna|[Introduzione](/materiali/II_A_ord/filosofia/U2_IL_PROBLEMA_GNOSEOLOGICO_IN_EPOCA_MODERNA/00_INTRODUZIONE_26_27.pdf/)
 |Il problema gnoseologico in età moderna|[Tavola rotonda: che cosa può conoscere la ragione?](/materiali/II_A_ord/filosofia/U2_IL_PROBLEMA_GNOSEOLOGICO_IN_EPOCA_MODERNA/RAGIONE_CONOSCENZA_STUDENTI.pdf/)
+|Il problema gnoseologico in età moderna|[E. Severino Il problema gnoseologico tra razionalismo ed empirismo, PARTE 1](//)
