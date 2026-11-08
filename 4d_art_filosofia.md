@@ -12,3 +12,4 @@ layout: page
 |L'età tardo-antica e medievale|[Il problema del male oggi](/materiali/4_D_art/filosofia/05_il_problema_de_male_Jonas.pdf/)
 |L'età tardo-antica e medievale|[Anselmo d'Aosta: La dimostrazione dell'esistenza di Dio](/materiali/4_D_art/filosofia/04_prova_anselmo.pdf/)
 |L'età tardo-antica e medievale|[Indicazioni per lo studio](/materiali/4_D_art/filosofia/PROGRAMMI/02_filocristiana_4D_26_programma_testo.pdf/)
+|Tra Quattrocento e Seicento|[Il '400 e il '500: introduzione alla Rivoluzione scientifica](/
