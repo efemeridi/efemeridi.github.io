@@ -20,3 +20,4 @@ layout: page
 |La Mediterranée au XIIème s.: un carrefour de civilisations|[Le crociate: un bilancio è possibile?](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/Crociate_un_bilancio_I_bil_26_27.pdf/)
 |La Mediterranée au XIIème s.: un carrefour de civilisations|[Leçon 4. La société féodale occidentale](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/chap_1_leçon_4_societe_feodale_exercice_à_faire.pdf/)
 |La Mediterranée au XIIème s.: un carrefour de civilisations|[La société féodale: exercices à faire](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/societe_feodale_exercices.pdf/)
+|La Mditerranée a au XIIème s.: un carrefour de civilisations|[Indicazioni per lo studio](/materiali/I_A_bil/storia/PROGRAMMI/01_THEME_1_MEDITERRANEE_AU_XII_chap_1_leçons_1-2-3-4.pdf/)
