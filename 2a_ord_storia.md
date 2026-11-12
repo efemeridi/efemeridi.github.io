@@ -19,3 +19,4 @@ layout: page
 |L'epoca dei Lumi e delle riforme |[Le riforme dei sovrani illuminati](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/5_le_riforme_dei_sovrani_illuminati_26.pdf/)
 |L'epoca dei Lumi e delle riforme |[L'Italia del Settecento](/materiali/II_A_ord/storia/02_EPOCA_LUMI_RIFORME/6_italia_settecento_26.pdf/)
 |L'epoca dei Lumi e delle riforme |[Indicazioni per lo studio](/materiali/II_A_ord/storia/PROGRAMMI/PROGRAMMA_SEZ_2.pdf/)
+|Le rivoluzioni e l'età napoleonica|[Europa e mondo nel Settecento: ripresa economica ...](/materiali/II_A_ord/storia/03_RIVOLUZIONI_RESTAURAZIONE/cap_7_Eu_mondo_Settecento_ec_riv_ind_parte_prima.pdf/)
