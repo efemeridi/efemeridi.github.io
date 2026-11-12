@@ -21,4 +21,4 @@ layout: page
 |La Méditerranée au XIIème s.: un carrefour de civilisations|[Leçon 4. La société féodale occidentale](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/chap_1_leçon_4_societe_feodale_exercice_à_faire.pdf/)
 |La Méditerranée au XIIème s.: un carrefour de civilisations|[La société féodale: exercices à faire](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/societe_feodale_exercices.pdf/)
 |La Méditerranée au XIIème s.: un carrefour de civilisations|[Indicazioni per lo studio](/materiali/I_A_bil/storia/PROGRAMMI/01_THEME_1_MEDITERRANEE_AU_XII_chap_1_leçons_1-2-3-4.pdf/)
-|La Méditerranée au XIIème s.:un carrefourde civilisations|[Le Moyen Ȃge, un renouveau](
+|La Méditerranée au XIIème s.:un carrefourde civilisations|[Le Moyen Ȃge, un renouveau](/materiali/I_A_bil/storia/01_MEDITERRANEE_XII/chap_2_leçon_5_6_7_essor_soc_mediev_échanges_civilisation_urbaine.pdf/)
