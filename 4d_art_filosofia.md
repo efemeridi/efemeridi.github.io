@@ -13,3 +13,5 @@ layout: page
 |L'età tardo-antica e medievale|[Anselmo d'Aosta: La dimostrazione dell'esistenza di Dio](/materiali/4_D_art/filosofia/04_prova_anselmo.pdf/)
 |L'età tardo-antica e medievale|[Indicazioni per lo studio](/materiali/4_D_art/filosofia/PROGRAMMI/02_filocristiana_4D_26_programma_testo.pdf/)
 |Tra Quattrocento e Seicento|[Il '400 e il '500: introduzione alla Rivoluzione scientifica](/materiali/4_D_art/filosofia/01_400_500_RIVOLUZIONE_SCIENTIFICA/01_Quattrocento_cinquecento_4_D_artistico_introduzione.pdf/)
+|Tra Quattrocento e Seicento|[Laboratorio Cinema e Filosofia. Liliana Cavani, Galileo. FONTI e STORIOGRAFIA](/materiali/4_D_art/filosofia/01_400_500_RIVOLUZIONE_SCIENTIFICA/01_Quattrocento_cinquecento_4_D_artistico_introduzione.pdf/)
+|Tra Quattrocento e Seicento|[Laboratorio Cinema e Filosofia. Liliana Cavani, Galileo. FONTI e STORIOGRAFIA, analisi dei testi](/materiali/4_D_art/filosofia/01_400_500_RIVOLUZIONE_SCIENTIFICA/01_Quattrocento_cinquecento_4_D_artistico_introduzione.pdf/)
