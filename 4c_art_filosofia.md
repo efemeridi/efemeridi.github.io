@@ -16,4 +16,4 @@ layout: page
 |L'età tardo antica e medievale|[Indicazioni per lo studio](/materiali/4_C_art/filosofia/PROGRAMMI/02_filocristiana_4C_26_programma_testo.pdf/)
 |Il Quattrocento e il Cinquecento|[Dall'Umanesimo e Rinascimento alla Rivoluzione scientifica](/materiali/4_C_art/filosofia/01_FILO_TRA_400_E_500/01_Quattrocento_cinquecento_4_C_artistico.pdf/)
 |Il Quattrocento e il Cinquecento|[La rivoluzione scientifica nelle parole dei protagonisti: un nuovo sguardo sull'uomo e sul mondo](/materiali/4_C_art/filosofia/01_FILO_TRA_400_E_500/02_TESTI_RIVOLUZIONE_SCIENTIFICA_AA_VV.pdf/)
-|Il Quattrocento e il Cinquecento|[Indicazioni per lo studio](/materiali/4_C_art/filosofia/01_FILO_TRA_400_E_500/02_TESTI_RIVOLUZIONE_SCIENTIFICA_AA_VV.pdf/)
+|Il Quattrocento e il Cinquecento|[Indicazioni per lo studio](/materiali/4_C_art/filosofia/PROGRAMMI/03_rivoluzione_scientifica_4C_26.pdf/)
