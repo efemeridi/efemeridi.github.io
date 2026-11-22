@@ -15,4 +15,4 @@ layout: page
 |La nascita della filosofia|[Indicazioni per lo studio](/materiali/I_A_bil/filosofia/PROGRAMMI/01_intro_grecia_nascita_filo.pdf/)
 |La ricerca del principio|[Logos e doxa: Zenone](/materiali/I_A_bil/filosofia/02_LA_RICERCA_DEL_PRINCIPIO/06_zenone_bilingue_26_27.pdf/)
 |La ricerca del principio|[Ciò che è e ciò che appare: Democrito](/materiali/I_A_bil/filosofia/02_LA_RICERCA_DEL_PRINCIPIO/07_apparenza_realta_26_27.pdf/)
-|La ricerca del principio|[Indicazioni per lo studo](/materiali/I_A_bil/filosofia/02_LA_RICERCA_DEL_PRINCIPIO/07_apparenza_realta_26_27.pdf/)
+|La ricerca del principio|[Indicazioni per lo studo](/materiali/I_A_bil/filosofia/PROGRAMMI/02_apparenza_e_realta_zenone_democrito.pdf/)
