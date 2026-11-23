@@ -15,3 +15,4 @@ layout: page
 |Tra Quattrocento e Seicento|[Il '400 e il '500: introduzione alla Rivoluzione scientifica](/materiali/4_D_art/filosofia/01_400_500_RIVOLUZIONE_SCIENTIFICA/01_Quattrocento_cinquecento_4_D_artistico_introduzione.pdf/)
 |Tra Quattrocento e Seicento|[Laboratorio Cinema e Filosofia. Liliana Cavani, Galileo. FONTI e STORIOGRAFIA](/materiali/4_D_art/filosofia/01_400_500_RIVOLUZIONE_SCIENTIFICA/FONTI_PASSI_STORIOGRAFICI_1.pdf/)
 |Tra Quattrocento e Seicento|[Laboratorio Cinema e Filosofia. Liliana Cavani, Galileo. FONTI e STORIOGRAFIA, analisi dei testi](/materiali/4_D_art/filosofia/01_400_500_RIVOLUZIONE_SCIENTIFICA/FONTI_PASSI_STORIOGRAFICI_ANALISI.pdf/)
+|Tra Quattrocento e Seicento|[Indicazioni per lo studio](/materiali/4_D_art/filosofia/PROGRAMMI/03_rivoluzione_scientifica_4D_26.pdf/)
