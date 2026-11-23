@@ -14,3 +14,4 @@ layout: page
 |Da Kant a Hegel| [Idealismo o dogmatismo](/materiali/5_D_art/filosofia/IDEALISMO_HEGEL/idealismo_o_dogmatismo.pdf/)
 |Da Kant a Hegel| [APPROFONDIMENTO: La figura del servo-signore](/materiali/5_D_art/filosofia/IDEALISMO_HEGEL/servo_signore.pdf/)
 |Da Kant a Hegel|[Indicazioni per lo studio](/materiali/5_D_art/filosofia/PROGRAMMI/02_IDEALISMO_PROGRAMMA_SINTESI.pdf/)
+|La reazione a Hegel PARTE PRIMA|[Dallo Spirito all'uomo: Feuerbach](/materiali/5_D_art/filosofia/REAZIONE_A_HEGEL_PARTE_PRIMA/01_feuerbach_26_27.pdf/)
