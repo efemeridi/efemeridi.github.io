@@ -25,4 +25,4 @@ layout: page
 |Le rivoluzioni e l'età napoleonica|[Denis Diderot, Origini e progressi della schiavitù](/materiali/II_A_ord/storia/03_RIVOLUZIONI_RESTAURAZIONE/cap_7_Eu_mondo_colonie_schiavitu.pdf/)
 |Le rivoluzioni e l'età napoleonica|[Europa e mondo nel Settecento:...rivoluzione industriale](/materiali/II_A_ord/storia/03_RIVOLUZIONI_RESTAURAZIONE/cap_7_Eu_mondo_Settecento_ec_riv_ind_parte_seconda.pdf/)
 |Le rivoluzioni e l'età napoleonica|[P. Deane, Il significato della prima rivoluzione industriale](/materiali/II_A_ord/storia/03_RIVOLUZIONI_RESTAURAZIONE/cap_7_parte_seconda_Eu_mondo_analisi_testo_rivoluzione_industriale.pdf/)
-|Le rivoluzioni e l'età napoleonica|[Indicazioni per lo studio](/materiali/II_A_ord/storia/03_RIVOLUZIONI_RESTAURAZIONE/cap_7_Eu_mondo_colonie_schiavitu.pdf/)
+|Le rivoluzioni e l'età napoleonica|[Indicazioni per lo studio (/materiali/II_A_ord/storia/PROGRAMMI/PROGRAMMA_SEZ_3_dicembre.pdf/)
