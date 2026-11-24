@@ -21,4 +21,4 @@ layout: page
 |Il problema gnoseologico in età moderna|[Descartes e il razionalismo: l'onnipotenza della ragione](materiali/II_A_ord/filosofia/U2_IL_PROBLEMA_GNOSEOLOGICO_IN_EPOCA_MODERNA/02_problema_conoscenza_descartes_ppt_2026.pdf/)
 |Il problema gnoseologico in età moderna|[J. Locke e D. Hume: l'empirismo, un'altra svolta intellettuale](/materiali/II_A_ord/filosofia/U2_IL_PROBLEMA_GNOSEOLOGICO_IN_EPOCA_MODERNA/2_problema_conoscenza_empirismo_2026_MODIFICATO_ppt.pdf/)
 |Il problema gnoseologico in età moderna|[E. Severino Il problema gnoseologico tra razionalismo ed empirismo, PARTE 2](/materiali/II_A_ord/filosofia/U2_IL_PROBLEMA_GNOSEOLOGICO_IN_EPOCA_MODERNA/1tris_razionalismo_empirismo_severino_26_parte_2.pdf/)
-|Il problema gnoseologico in età moderna|[Indicazioni per lo studio](/materiali/II_A_ord/filosofia/U2_IL_PROBLEMA_GNOSEOLOGICO_IN_EPOCA_MODERNA/2_problema_conoscenza_empirismo_2026_MODIFICATO_ppt.pdf/)
+|Il problema gnoseologico in età moderna|[Indicazioni per lo studio](/materiali/II_A_ord/filosofia/PROGRAMMI/03_gnoseologia_fino_a_kant_CARTESIO_LOCKE_HUME.pdf/)
